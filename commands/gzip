@@ -1,0 +1,3 @@
+gzip -9c $LOG > $FILE
+echo /dev/null > $LOG
+

@@ -1,0 +1,2 @@
+yum list | grep –i java
+yum install java-1.5.0-ibm.x86_64

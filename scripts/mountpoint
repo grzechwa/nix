@@ -1,0 +1,5 @@
+#!/bin/bash
+
+for a in /$1/*;
+do mountpoint -q --'$a' || du -shx '$a'
+done
