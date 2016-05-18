@@ -1,0 +1,14 @@
+lslpp
+lsdev
+lsfs
+lscfg
+
+lsvg
+lslv
+lsps -a
+
+/etc/filesystemjJ:w
+
+alog lub /var/adm/ras/
+
+src
