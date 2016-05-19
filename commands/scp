@@ -1,0 +1,1 @@
+scp /path/to/file/arctools.tgz user@host:/folder
