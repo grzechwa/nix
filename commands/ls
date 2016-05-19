@@ -1,2 +1,3 @@
 ls -lRth
 ls -ln # n = uid guid
+ls --file-type -f -l | egrep -i /$ | tail -n +3

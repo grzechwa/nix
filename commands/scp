@@ -1,1 +1,4 @@
-scp [-P port] /path/to/file/arctools.tgz user@host:/folder
+scp [-P port] /path/to/file/plik user@host:/folder
+scp [-P port] user@host:/folder/plik ~/folder
+
+-r -C
