@@ -1,4 +1,7 @@
+# local to remote
 scp [-P port] /path/to/file/plik user@host:/folder
+
+# remote to local
 scp [-P port] user@host:/folder/plik ~/folder
 
 -r -C
