@@ -7,8 +7,10 @@ lsvg
 lslv
 lsps -a
 
-/etc/filesystemjJ:w
+/etc/filesystemj
 
 alog lub /var/adm/ras/
 
 src
+
+http://emmanuel.iffly.free.fr/doku.php?id=aix:logrotate
