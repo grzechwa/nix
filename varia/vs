@@ -1,0 +1,7 @@
+alias vs unalias
+set vs unset
+mount vs umount
+man -f vs whatis
+man -k vs apropos
+
+find vs locate
