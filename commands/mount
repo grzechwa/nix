@@ -1,3 +1,7 @@
 # re-mount the running filesystem with the new options:
 
 mount -v -o remount /
+mount -o remount,acl /
+
+# mount fstab
+mount -a

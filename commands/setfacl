@@ -1,0 +1,11 @@
+setfacl -m m::rw test
+
+user@host:~/$ getfacl test
+# file: test
+# owner: greg
+# group: greg
+user::rwx
+user:pati:rwx			#effective:rw-
+group::rwx			#effective:rw-
+mask::rw-
+other::r--
